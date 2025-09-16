@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ✍️About Me:
  **I'm currently working on:**<br>    Building a production-grade, multi-region disaster recovery platform on AWS using Terraform.<br>    Automating cloud infrastructure from the ground up with Infrastructure as Code.<br><br> **I'm looking to collaborate on:**<br>     Cloud-native architecture, SRE/DevOps tooling, and open-source infrastructure projects.<br><br> **I'm looking for help with:**<br>     Advanced Terraform patterns and diving deeper into observability with Prometheus & Grafana.<br><br> **I'm currently learning:**<br>     Automated failover strategies, high-availability design patterns, and the CAP Theorem in distributed systems.<br><br> **Ask me about:**<br>      Designing multi-region networks on AWS, IaC with Terraform, and the trade-offs between HA and DR.<br><br> **Fun fact:**<br>     I believe the best way to learn a system is to break it and then figure out how to fix it.
 
 
