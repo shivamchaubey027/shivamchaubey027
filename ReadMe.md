@@ -1,5 +1,21 @@
-# ✍️About Me:
- **I'm currently working on:**<br>    Building a production-grade, multi-region disaster recovery platform on AWS using Terraform.<br>    Automating cloud infrastructure from the ground up with Infrastructure as Code.<br><br> **I'm looking to collaborate on:**<br>     Cloud-native architecture, SRE/DevOps tooling, and open-source infrastructure projects.<br><br> **I'm looking for help with:**<br>     Advanced Terraform patterns and diving deeper into observability with Prometheus & Grafana.<br><br> **I'm currently learning:**<br>     Automated failover strategies, high-availability design patterns, and the CAP Theorem in distributed systems.<br><br> **Ask me about:**<br>      Designing multi-region networks on AWS, IaC with Terraform, and the trade-offs between HA and DR.<br><br> **Fun fact:**<br>     I believe the best way to learn a system is to break it and then figure out how to fix it.
+# About Me:I'm currently working on:<br>
+  Building backend services in Go, containerized with Docker, and deployed on Kubernetes using Terraform for infrastructure automation.<br>
+  Developing internal tooling to improve developer workflows and cloud reliability.<br><br>
+
+I'm looking to collaborate on:<br>
+  Backend performance optimization, Kubernetes tooling, and open-source infrastructure automation projects.<br><br>
+
+I'm looking for help with:<br>
+  Best practices for scaling Go microservices on Kubernetes and managing stateful workloads in production.<br><br>
+
+I'm currently learning:<br>
+  System design for distributed backends, Terraform module composition, and Kubernetes controllers & operators.<br><br>
+
+Ask me about:<br>
+  Infrastructure-as-Code with Terraform, designing backend systems in Go, and deploying cloud-native apps on Kubernetes.<br><br>
+
+Fun fact:<br>
+  I debug systems the same way I learn them — by breaking things on purpose and fixing them from the logs up.
 
 
 ## 🌐 Socials:
