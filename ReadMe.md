@@ -91,6 +91,15 @@ I write about what I build and what breaks. [Read my blog →](https://shivamcha
 
 ---
 
+
+
+
+<div align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=shivamchaubey027&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&area_color=00F7FF" alt="Contribution Graph" />
+</div>
+
+---
+
 ## Let's Connect
 
 I'm always down to talk about distributed systems, Kubernetes internals, or why your monitoring setup is lying to you.
