@@ -1,4 +1,6 @@
 # Shivam Chaubey
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamchaubey027&label=Profile%20views&color=0e75b6&style=flat" alt="shivamchaubey027" /> </p>
+
 **Backend & Infrastructure Engineer** | Building systems that scale, fail gracefully, and cost less
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
